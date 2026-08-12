@@ -1,8 +1,63 @@
 {
-  "connected": false,
-  "lastCheckedAt": null,
-  "lastOkAt": null,
+  "connected": true,
+  "lastCheckedAt": "2026-08-12T23:00:13.556Z",
+  "lastOkAt": "2026-08-12T23:00:13.556Z",
   "lastError": null,
   "watchQuery": "from:(support.web3@bitget.com OR imi.gov.my)",
-  "mails": []
+  "mails": [
+    {
+      "id": "19ff77736a798863",
+      "from": "Bitget Wallet <support.web3@bitget.com>",
+      "subject": "[お問い合わせリクエストのリマインド] Reopen / escalate Ticket #3308387 — Card rebinding after lost phone | #3319139",
+      "date": "Wed, 12 Aug 2026 19:33:31 +0000"
+    },
+    {
+      "id": "19ff69a12bf52e85",
+      "from": "Bitget Wallet <support.web3@bitget.com>",
+      "subject": "[お問い合わせリクエストのリマインド] Reopen / escalate Ticket #3308387 — Card rebinding after lost phone | #3319139",
+      "date": "Wed, 12 Aug 2026 15:31:59 +0000"
+    },
+    {
+      "id": "19ff6699b682a921",
+      "from": "Bitget Wallet <support.web3@bitget.com>",
+      "subject": "[Bitget Wallet Support] We've received your request #3319139",
+      "date": "Wed, 12 Aug 2026 14:39:02 +0000"
+    },
+    {
+      "id": "19ff458985effb26",
+      "from": "Bitget Wallet <support.web3@bitget.com>",
+      "subject": "Request [Bitget Wallet Support - Bank cards Ticket#3308387] Share your feedback with us",
+      "date": "Wed, 12 Aug 2026 05:01:14 +0000"
+    },
+    {
+      "id": "19ff45886a9a2404",
+      "from": "Bitget Wallet <support.web3@bitget.com>",
+      "subject": "[お問い合わせ完了] Bitget Wallet Support - Bank cards | #3308387",
+      "date": "Wed, 12 Aug 2026 05:01:09 +0000"
+    },
+    {
+      "id": "19fed43c608fd8fb",
+      "from": "Bitget Wallet <support.web3@bitget.com>",
+      "subject": "[お問い合わせリクエストのリマインド] Bitget Wallet Support - Bank cards | #3308387",
+      "date": "Mon, 10 Aug 2026 20:01:08 +0000"
+    },
+    {
+      "id": "19fe9c462b2b581c",
+      "from": "Bitget Wallet <support.web3@bitget.com>",
+      "subject": "[お問い合わせリクエストのリマインド] Bitget Wallet Support - Bank cards | #3308387",
+      "date": "Mon, 10 Aug 2026 03:43:08 +0000"
+    },
+    {
+      "id": "19fe45a731a386ef",
+      "from": "Bitget Wallet <support.web3@bitget.com>",
+      "subject": "[お問い合わせリクエストのリマインド] Bitget Wallet Support - Bank cards | #3308387",
+      "date": "Sun, 09 Aug 2026 02:29:19 +0000"
+    },
+    {
+      "id": "19fe4545edea9d0c",
+      "from": "Bitget Wallet <support.web3@bitget.com>",
+      "subject": "[Bitget Wallet Support] We've received your request #3308387",
+      "date": "Sun, 09 Aug 2026 02:22:41 +0000"
+    }
+  ]
 }
