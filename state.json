@@ -1,7 +1,7 @@
 {
   "connected": true,
-  "lastCheckedAt": "2026-08-12T23:06:52.070Z",
-  "lastOkAt": "2026-08-12T23:06:52.070Z",
+  "lastCheckedAt": "2026-08-12T23:10:58.087Z",
+  "lastOkAt": "2026-08-12T23:10:58.087Z",
   "lastError": null,
   "watchQuery": "from:(support.web3@bitget.com OR imi.gov.my)",
   "mails": [
