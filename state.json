@@ -1,9 +1,27 @@
 {
   "connected": true,
-  "lastCheckedAt": "2026-08-12T23:10:58.087Z",
-  "lastOkAt": "2026-08-12T23:10:58.087Z",
+  "lastCheckedAt": "2026-08-12T23:13:09.600Z",
+  "lastOkAt": "2026-08-12T23:13:09.600Z",
   "lastError": null,
   "watchQuery": "from:(support.web3@bitget.com OR imi.gov.my)",
+  "sources": [
+    {
+      "key": "bitget",
+      "label": "Bitget Wallet",
+      "count": 9,
+      "latestSubject": "[お問い合わせリクエストのリマインド] Reopen / escalate Ticket #3308387 — Card rebinding after lost phone | #3319139",
+      "latestDate": "Wed, 12 Aug 2026 19:33:31 +0000",
+      "waiting": false
+    },
+    {
+      "key": "imi",
+      "label": "マレーシア移民局",
+      "count": 0,
+      "latestSubject": null,
+      "latestDate": null,
+      "waiting": true
+    }
+  ],
   "mails": [
     {
       "id": "19ff77736a798863",
